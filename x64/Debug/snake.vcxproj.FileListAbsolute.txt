@@ -1,0 +1,1 @@
+D:\cpp\snake\x64\Debug\snake.exe

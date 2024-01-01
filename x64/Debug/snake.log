@@ -1,0 +1,13 @@
+﻿  main.cpp
+D:\cpp\snake\main.cpp(70,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\cpp\snake\main.cpp(86,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\cpp\snake\main.cpp(88,13): warning C4552: '-': result of expression not used
+D:\cpp\snake\main.cpp(128,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(128,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(132,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(132,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(136,64): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(136,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(139,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\snake\main.cpp(139,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  snake.vcxproj -> D:\cpp\snake\x64\Debug\snake.exe
