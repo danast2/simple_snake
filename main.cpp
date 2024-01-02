@@ -14,8 +14,11 @@ int dir = 0, tail = 4, game_lost;
 
 struct position {
     int x, y;
-}snake[100], fruit;;
+};
 
+position snake[100]; // массив координат тела змейки, 100 - максимальное длина тела
+
+position fruit;
 
 void game() {
     for (int i = tail; i > 0; i--) {
